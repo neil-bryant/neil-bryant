@@ -31,12 +31,12 @@ I build **web-based systems** that solve real-world problems—especially for sc
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js
 
 
-### ⚙️ Frameworks & Libraries
+
 ### ⚙️ Frameworks & Libraries
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmailer/phpmailer-original.svg" width="20"/> PHPMailer  
+
  
 
 ### 🗄️ Databases
