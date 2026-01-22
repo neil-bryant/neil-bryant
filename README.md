@@ -32,13 +32,19 @@ I build **web-based systems** that solve real-world problems—especially for sc
 
 
 ### ⚙️ Frameworks & Libraries
-- Bootstrap  
-- React.js  
-- PHPMailer  
+### ⚙️ Frameworks & Libraries
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20"/> Bootstrap  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmailer/phpmailer-original.svg" width="20"/> PHPMailer  
+ 
 
 ### 🗄️ Databases
-- MySQL  
-- MariaDB  
+### 🗄️ Databases
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="20"/> MariaDB  
+
 
 ### 🔐 Security & Features
 - OTP via Email
@@ -69,10 +75,16 @@ I build **web-based systems** that solve real-world problems—especially for sc
 ### 🏥 Appointment Booking System
 - Schedule eye check-ups & fittings
 - Customer & admin dashboards
+  
+### Bakemaster (Bakery Management System)
 
+Customer & employee management
+-Product & order tracking
+-Inventory & stock monitoring
+-PHP + MySQL + Bootstrap
 ---
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
@@ -84,8 +96,6 @@ I build **web-based systems** that solve real-world problems—especially for sc
 
 
 
-
-> 🔁 Replace `YOUR_USERNAME` with your actual GitHub username
 
 ---
 
