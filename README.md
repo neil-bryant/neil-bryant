@@ -77,11 +77,10 @@ I build **web-based systems** that solve real-world problems—especially for sc
 - Customer & admin dashboards
   
 ### Bakemaster (Bakery Management System)
-
-Customer & employee management
--Product & order tracking
--Inventory & stock monitoring
--PHP + MySQL + Bootstrap
+- Customer & employee management
+- Product & order tracking
+- Inventory & stock monitoring
+- PHP + MySQL + Bootstrap
 ---
 
 
