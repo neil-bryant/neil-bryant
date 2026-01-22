@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👋 Hi, I'm Neil Bryant Galindez
 
-<!--
-**neil-bryant/neil-bryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Full-Stack Developer (PHP & React)  
+📍 Philippines
 
-Here are some ideas to get you started:
+I build **web-based systems** that solve real-world problems—especially for schools, small businesses, and local communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔧 Experienced in **PHP, MySQL, JavaScript, HTML, CSS**
+- ⚛️ Currently learning and building projects with **React.js**
+- 🗂️ Focused on **system development**:
+  - Booking Systems
+  - Inventory Management
+  - Role-Based Access Control (RBAC)
+  - OTP & Security Logs
+- 🌱 Passionate about **digitizing manual processes** to improve efficiency
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- PHP  
+- JavaScript  
+- SQL  
+- HTML5 / CSS3  
+
+### ⚙️ Frameworks & Libraries
+- Bootstrap  
+- React.js  
+- PHPMailer  
+
+### 🗄️ Databases
+- MySQL  
+- MariaDB  
+
+### 🔐 Security & Features
+- OTP via Email
+- Login Attempt Limiting
+- Role-Based Access Control (RBAC)
+- Admin Activity Logs
+
+---
+
+## 📂 Featured Projects
+
+### 🏫 Inventory Management System (School-Based)
+- Centralized asset tracking
+- Missing item monitoring
+- Automated reports
+- PHP + MySQL
+
+### ☕ Coffee Booking System (City-Based)
+- Browse local coffee shops
+- Advance booking & pickup scheduling
+- Real-time availability
+
+### 🏠 Boarding House Finder System
+- Search boarding houses digitally
+- Owner-managed listings
+- Utility & amenity filtering
+
+### 🏥 Appointment Booking System
+- Schedule eye check-ups & fittings
+- Customer & admin dashboards
+
+---
+
+## 📊 GitHub Stats
+
+![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+> 🔁 Replace `YOUR_USERNAME` with your actual GitHub username
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email:neilbryantg@gmail.com
+- 💼 LinkedIn: NEIL BRYANT GALINDEZ
+- 🌐 Portfolio: My Portfolio
+
+---
+
+⭐ *“Building systems that make life easier through technology.”*
+
+
