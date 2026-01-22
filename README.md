@@ -73,9 +73,12 @@ I build **web-based systems** that solve real-world problems—especially for sc
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neil-bryant&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neil-bryant&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neil-bryant&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neil-bryant&layout=compact&theme=tokyonight)
 
 
 > 🔁 Replace `YOUR_USERNAME` with your actual GitHub username
