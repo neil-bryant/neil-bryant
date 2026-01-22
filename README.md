@@ -23,10 +23,13 @@ I build **web-based systems** that solve real-world problems—especially for sc
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- PHP  
-- JavaScript  
-- SQL  
-- HTML5 / CSS3  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> PHP
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20"/> SQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js
+
 
 ### ⚙️ Frameworks & Libraries
 - Bootstrap  
