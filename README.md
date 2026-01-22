@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neil Bryant Galindez
 
-🎓 IT Student | 💻 Full-Stack Developer (PHP & React)  
+🎓 4rh Year IT Student | 💻 Full-Stack Developer (PHP & React)  
 📍 Philippines
 
 I build **web-based systems** that solve real-world problems—especially for schools, small businesses, and local communities.
